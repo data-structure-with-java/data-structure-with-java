@@ -51,12 +51,12 @@
 ---
 
 ## 📂 프로젝트 구조
-src/
-├── ArrayListImplement/
-├── LinkedListImplement/
-├── DoublyLinkedListImplement/
-├── CircularLinkedListImplement/
-└── (추가 예정)
+src/</br>
+├── ArrayListImplement/</br>
+├── LinkedListImplement/</br>
+├── DoublyLinkedListImplement/</br>
+├── CircularLinkedListImplement/</br>
+└── (추가 예정)</br>
 
 ## 📌 개발 규칙
 
